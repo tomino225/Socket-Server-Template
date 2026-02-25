@@ -1,6 +1,7 @@
 const http = require("http");
 const express = require("express");
 const app = express();
+const assets = require("./assets.json");
 
 app.use(express.static("public"));
 // require("dotenv").config();
@@ -23,6 +24,8 @@ wss.on("connection", function (ws, req) {
   console.log("Connection Opened");
   console.log("Client size: ", wss.clients.size);
 
+  ws.send(JSON.stringify({ type: "opt", options: assets }));
+
   if (wss.clients.size === 1) {
     console.log("first connection. starting keepalive");
     keepServerAlive();
@@ -34,7 +37,13 @@ wss.on("connection", function (ws, req) {
       console.log('keepAlive');
       return;
     }
-    broadcast(ws, stringifiedData, false);
+
+    try {
+      const d = {type: "td", data: JSON.parse(data)};
+      broadcast(ws, JSON.stringify(d), false);
+    } catch (err) {
+      console.log($`Failed to send: ${err}`)
+    }
   });
 
   ws.on("close", (data) => {
