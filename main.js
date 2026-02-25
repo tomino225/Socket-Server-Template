@@ -35,7 +35,7 @@ function verifyAuth(message) {
     if (age > TOKEN_TTL || age < 0) return false;
 
     const expected = crypto
-      .createHmac("sha256", WS_SECRET)
+      .createHmac("sha256", process.env.WS_SECRET)
       .update(String(timestamp))
       .digest("hex");
 
