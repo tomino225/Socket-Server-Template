@@ -25,7 +25,7 @@
       "additionalEnvironment": 0.51956,
       "AO": 1.5,
       "assetIndex": 2,
-      "InProduction": false
+      "InProduction": true
     },
     {
       "name": "9000",
@@ -39,7 +39,7 @@
       "additionalEnvironment": 0.51956,
       "AO": 1.5,
       "assetIndex": 3,
-      "InProduction": false
+      "InProduction": true
     },
     {
       "name": "Gods Eye C",
@@ -151,7 +151,7 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 11,
-      "InProduction": false
+      "InProduction": true
     },
     {
       "name": "Model S/ Model 3/ Model X/ Model Y",
@@ -585,7 +585,7 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 42,
-      "InProduction": false
+      "InProduction": true
     },
     {
       "name": "Quark Series",
@@ -781,7 +781,7 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 56,
-      "InProduction": false
+      "InProduction": true
     },
     {
       "name": "Google Pixel 9",
@@ -865,7 +865,7 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 62,
-      "InProduction": false
+      "InProduction": true
     },
     {
       "name": "Find X9",
@@ -879,7 +879,7 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 63,
-      "InProduction": false
+      "InProduction": true
     },
     {
       "name": "Galaxy S",
@@ -893,7 +893,7 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 64,
-      "InProduction": false
+      "InProduction": true
     },
     {
       "name": "Galaxy S24",
@@ -907,7 +907,7 @@
       "additionalEnvironment": 0.05712,
       "AO": 1.5,
       "assetIndex": 65,
-      "InProduction": true
+      "InProduction": false
     },
     {
       "name": "Galaxy S24 Ultra",
@@ -963,7 +963,7 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 69,
-      "InProduction": false
+      "InProduction": true
     },
     {
       "name": "15S Pro",
@@ -1005,7 +1005,7 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 72,
-      "InProduction": false
+      "InProduction": true
     },
     {
       "name": "X300 Series",
@@ -1019,7 +1019,7 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 73,
-      "InProduction": false
+      "InProduction": true
     },
     {
       "name": "Kindle",
@@ -1131,7 +1131,7 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 81,
-      "InProduction": false
+      "InProduction": true
     },
     {
       "name": "HTC Dream T-Mobile G1",
@@ -1145,7 +1145,7 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 82,
-      "InProduction": false
+      "InProduction": true
     },
     {
       "name": "Mate 7",
@@ -1173,7 +1173,7 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 84,
-      "InProduction": false
+      "InProduction": true
     },
     {
       "name": "G Cloud",
@@ -1201,7 +1201,7 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 86,
-      "InProduction": false
+      "InProduction": true
     },
     {
       "name": "Nintendo Switch Devkit",
@@ -1229,7 +1229,7 @@
       "additionalEnvironment": 0.19579,
       "AO": 1.5,
       "assetIndex": 88,
-      "InProduction": false
+      "InProduction": true
     },
     {
       "name": "S60 Platform for Smartphones",
@@ -1257,7 +1257,7 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 90,
-      "InProduction": false
+      "InProduction": true
     },
     {
       "name": "BlackBerry Bold 9000",
@@ -1285,7 +1285,7 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 92,
-      "InProduction": false
+      "InProduction": true
     },
     {
       "name": "Galaxy A56",
@@ -1299,7 +1299,7 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 93,
-      "InProduction": false
+      "InProduction": true
     },
     {
       "name": "Zaurus",
@@ -1313,7 +1313,7 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 94,
-      "InProduction": false
+      "InProduction": true
     },
     {
       "name": "PS Vita",
@@ -1327,7 +1327,7 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 95,
-      "InProduction": false
+      "InProduction": true
     },
     {
       "name": "Mi 4",
@@ -1341,7 +1341,7 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 96,
-      "InProduction": false
+      "InProduction": true
     },
     {
       "name": "14T",
@@ -1355,7 +1355,7 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 97,
-      "InProduction": false
+      "InProduction": true
     },
     {
       "name": "Chromebook",
@@ -1439,7 +1439,7 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 103,
-      "InProduction": false
+      "InProduction": true
     },
     {
       "name": "Mate X",
@@ -1453,7 +1453,7 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 104,
-      "InProduction": false
+      "InProduction": true
     },
     {
       "name": "P11 Tablet",
@@ -1467,7 +1467,7 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 105,
-      "InProduction": false
+      "InProduction": true
     },
     {
       "name": "Razr",
@@ -1481,7 +1481,7 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 106,
-      "InProduction": false
+      "InProduction": true
     },
     {
       "name": "Streaming Stick",
@@ -1495,7 +1495,7 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 107,
-      "InProduction": false
+      "InProduction": true
     },
     {
       "name": "Mi Band 4",
@@ -1509,10 +1509,10 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 108,
-      "InProduction": false
+      "InProduction": true
     },
     {
-      "name": "Graviton2 processor",
+      "name": "Graviton2 Processor",
       "Industry": "Cloud AI",
       "Year": 2021,
       "Brand": "AWS",
@@ -1526,7 +1526,7 @@
       "InProduction": true
     },
     {
-      "name": "Graviton3 processor",
+      "name": "Graviton3 Processor",
       "Industry": "Cloud AI",
       "Year": 2023,
       "Brand": "AWS",
@@ -1540,7 +1540,7 @@
       "InProduction": true
     },
     {
-      "name": "Google Axion processor",
+      "name": "Google Axion Processor",
       "Industry": "Cloud AI",
       "Year": 2024,
       "Brand": "Google Cloud",
@@ -1705,7 +1705,7 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 122,
-      "InProduction": false
+      "InProduction": true
     },
     {
       "name": "Boradcom BCM6753",
@@ -1733,7 +1733,7 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 124,
-      "InProduction": false
+      "InProduction": true
     },
     {
       "name": "Networking Pro 1200 platform",
@@ -1831,7 +1831,7 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 131,
-      "InProduction": false
+      "InProduction": true
     },
     {
       "name": "OCTEON 10",
@@ -1845,7 +1845,7 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 132,
-      "InProduction": false
+      "InProduction": true
     },
     {
       "name": "AirScale Radio Access",
@@ -1887,7 +1887,7 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 135,
-      "InProduction": false
+      "InProduction": true
     },
     {
       "name": "Deco X90 Mesh Router",
@@ -1901,7 +1901,7 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 136,
-      "InProduction": false
+      "InProduction": true
     },
     {
       "name": "Dream Machine Pro",
@@ -1915,7 +1915,7 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 137,
-      "InProduction": false
+      "InProduction": true
     },
     {
       "name": "Ubiquiti UniFi Protect G4-PRO Camera",
@@ -1971,7 +1971,7 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 141,
-      "InProduction": true
+      "InProduction": false
     },
     {
       "name": "Pure Hot+Cool Purifier",
@@ -1985,7 +1985,7 @@
       "additionalEnvironment": 10.3603,
       "AO": 1.5,
       "assetIndex": 142,
-      "InProduction": true
+      "InProduction": false
     },
     {
       "name": "Dyson Motor Innovation",
@@ -1999,7 +1999,7 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 143,
-      "InProduction": true
+      "InProduction": false
     },
     {
       "name": "Jetson Orin",
@@ -2097,7 +2097,7 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 150,
-      "InProduction": true
+      "InProduction": false
     },
     {
       "name": "CV5S",
@@ -2125,7 +2125,7 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 152,
-      "InProduction": false
+      "InProduction": true
     },
     {
       "name": "?",
@@ -2251,7 +2251,7 @@
       "additionalEnvironment": 0.5202,
       "AO": 1.5,
       "assetIndex": 161,
-      "InProduction": true
+      "InProduction": false
     },
     {
       "name": "ThinQ AI Washing Machine",
@@ -2265,7 +2265,7 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 162,
-      "InProduction": false
+      "InProduction": true
     },
     {
       "name": "?",
@@ -2391,7 +2391,7 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 171,
-      "InProduction": false
+      "InProduction": true
     },
     {
       "name": "TM6",
@@ -2405,7 +2405,7 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 172,
-      "InProduction": false
+      "InProduction": true
     },
     {
       "name": "Spot",
@@ -2447,7 +2447,7 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 175,
-      "InProduction": false
+      "InProduction": true
     },
     {
       "name": "?",
@@ -2489,7 +2489,7 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 178,
-      "InProduction": true
+      "InProduction": false
     },
     {
       "name": "Versa 2",
@@ -2559,7 +2559,7 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 183,
-      "InProduction": false
+      "InProduction": true
     },
     {
       "name": "Ledger Wallet",
@@ -2573,7 +2573,7 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 184,
-      "InProduction": false
+      "InProduction": true
     },
     {
       "name": "Hue Bridge",
@@ -2587,7 +2587,7 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 185,
-      "InProduction": false
+      "InProduction": true
     },
     {
       "name": "?",
@@ -2629,6 +2629,6 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 188,
-      "InProduction": false
+      "InProduction": true
     }
   ]
