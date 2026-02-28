@@ -95,7 +95,7 @@
       "additionalEnvironment": 0.51956,
       "AO": 1.5,
       "assetIndex": 7,
-      "InProduction": true
+      "InProduction": false
     },
     {
       "name": "Driver+",
@@ -431,7 +431,7 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 31,
-      "InProduction": true
+      "InProduction": false
     },
     {
       "name": "Macbook Air",
@@ -571,7 +571,7 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 41,
-      "InProduction": true
+      "InProduction": false
     },
     {
       "name": "Samsung Smart TV",
@@ -672,7 +672,7 @@
       "InProduction": true
     },
     {
-      "name": "Ring",
+      "name": "Ring video doorbell (1st generation)",
       "Industry": "Edge AI - Consumer Devices",
       "Year": 2013,
       "Brand": "Ring",
@@ -1271,7 +1271,7 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 91,
-      "InProduction": false
+      "InProduction": true
     },
     {
       "name": "Xiaomi Redmi Turbo 4 Pro",
@@ -1285,7 +1285,7 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 92,
-      "InProduction": true
+      "InProduction": false
     },
     {
       "name": "Galaxy A56",
@@ -1397,7 +1397,7 @@
       "additionalEnvironment": 0.29038,
       "AO": 1.5,
       "assetIndex": 100,
-      "InProduction": true
+      "InProduction": false
     },
     {
       "name": "Apple TV 4K",
@@ -1428,7 +1428,7 @@
       "InProduction": true
     },
     {
-      "name": "SmarTV",
+      "name": "Smart TV",
       "Industry": "Edge AI - Consumer Devices",
       "Year": 2020,
       "Brand": "Hisense",
@@ -1439,7 +1439,7 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 103,
-      "InProduction": true
+      "InProduction": false
     },
     {
       "name": "Mate X",
@@ -1467,7 +1467,7 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 105,
-      "InProduction": true
+      "InProduction": false
     },
     {
       "name": "Razr",
@@ -1677,7 +1677,7 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 120,
-      "InProduction": true
+      "InProduction": true 
     },
     {
       "name": "AmpereOne Processor",
@@ -1691,7 +1691,7 @@
       "additionalEnvironment": 0.18105,
       "AO": 1.5,
       "assetIndex": 121,
-      "InProduction": true
+      "InProduction": false
     },
     {
       "name": "RT-AX89X",
@@ -1719,7 +1719,7 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 123,
-      "InProduction": false
+      "InProduction": true
     },
     {
       "name": "Orbi Tri-band Mesh WiFi",
@@ -1971,7 +1971,7 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 141,
-      "InProduction": false
+      "InProduction": true
     },
     {
       "name": "Pure Hot+Cool Purifier",
@@ -1985,7 +1985,7 @@
       "additionalEnvironment": 10.3603,
       "AO": 1.5,
       "assetIndex": 142,
-      "InProduction": false
+      "InProduction": true
     },
     {
       "name": "Dyson Motor Innovation",
@@ -1999,7 +1999,7 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 143,
-      "InProduction": false
+      "InProduction": true
     },
     {
       "name": "Jetson Orin",
@@ -2349,7 +2349,7 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 168,
-      "InProduction": false
+      "InProduction": true
     },
     {
       "name": "?",
@@ -2489,7 +2489,7 @@
       "additionalEnvironment": 1.0,
       "AO": 1.5,
       "assetIndex": 178,
-      "InProduction": false
+      "InProduction": true
     },
     {
       "name": "Versa 2",
